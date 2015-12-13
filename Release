@@ -1,0 +1,17 @@
+Origin: uroboro's repository
+Label: uroboro's repo
+Suite: stable
+Version: 0.1
+Codename: uroboronest
+Architectures: iphoneos-arm
+Components: main
+Description: A rather circular repository
+MD5Sum:
+ b3bd93bfccbcf24f3a8a5cb7797ff761 12825 Packages
+ 44808bbafda8d7602b44cfef1f8d7df0 2317 Packages.bz2
+SHA1:
+ bfe25ac66b1962d98dc37db8a52c328760c2ca77 12825 Packages
+ 7e4e9586ef3133b28dc848399451b5da3da963e4 2317 Packages.bz2
+SHA256:
+ 1be6317ff1555b2a1510f3c38b9c57df9fa0341bd7c650346dd8b5a476143da2 12825 Packages
+ 2626111352e3065203f4638b4592e7bf68c96614bae2facd8451cda635573e92 2317 Packages.bz2
